@@ -2,4 +2,6 @@
     <string name="app_name">ZSGS Tenkasi</string>
     <string name="get_details">Get Details</string>
     <string name="title">Title</string>
+    <string name="contact">contact</string>
+    <string name="email_id">Email Id</string>
 </resources>
